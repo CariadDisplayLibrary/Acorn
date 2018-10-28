@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Acorn.h
-Description: Acorn font for DisplayCore
+Description: Acorn
