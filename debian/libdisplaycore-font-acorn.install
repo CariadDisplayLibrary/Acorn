@@ -1,2 +1,2 @@
-Acorn.cpp libraries/DisplayCore/Acorn
-Acorn.h libraries/DisplayCore/Acorn
+src libraries/DisplayCore/Acorn
+library.properties libraries/DisplayCore/Acorn
